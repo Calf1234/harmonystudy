@@ -1,0 +1,53 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_HarmonyStudy_com.calf234.harmonystudy_30086000741464762.cer",
+          "storePassword": "0000001B5BA4AECD6EE7ECECEE4F2E89B989E3D04668B6FFBA698B9D638AAF913240685F31DBAA83A29B01",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B4002F0EF01A974BBA302B603DAE45A993D9376231F531AEE2AA4415B72B8603FDB155A8AF9F064",
+          "profile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_HarmonyStudy_com.calf234.harmonystudy_30086000741464762.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_HarmonyStudy_com.calf234.harmonystudy_30086000741464762.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "player",
+      "srcPath": "./player",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

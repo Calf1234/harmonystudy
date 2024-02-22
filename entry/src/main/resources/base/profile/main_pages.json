@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/notification/NotificationPage",
+    "pages/dialog/DialogPage",
+    "pages/common/EmitterPage",
+    "pages/comp/ListPage",
+    "pages/common/ObservedPage",
+    "pages/common/LinkPage",
+    "pages/anim/AnimPage",
+    "pages/anim/AnimPage2",
+    "pages/card/Page11",
+    "pages/card/Page22",
+    "pages/card/Page33"
+  ]
+}
