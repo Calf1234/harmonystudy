@@ -5,12 +5,263 @@
       "value": "模块描述"
     },
     {
-      "name": "WechatAbility_desc",
+      "name": "EntryAbility_desc",
       "value": "description"
     },
     {
-      "name": "WechatAbility_label",
+      "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "splash_login",
+      "value": "登 陆"
+    },
+    {
+      "name": "splash_register",
+      "value": "注 册"
+    },
+    {
+      "name": "login_country",
+      "value": "国家/地区"
+    },
+    {
+      "name": "login_title",
+      "value": "手机号登陆"
+    },
+    {
+      "name": "login_switch",
+      "value": "用微信号/QQ号/邮箱登陆"
+    },
+    {
+      "name": "login_phone",
+      "value": "手机号"
+    },{
+      "name": "login_phone_tips",
+      "value": "请填写手机号"
+    },
+    {
+      "name": "login_button_tips",
+      "value": "上述手机号仅用于登陆验证"
+    },
+    {
+      "name": "login_button",
+      "value": "同意并继续"
+    },
+    {
+      "name": "login_repass",
+      "value": "找回密码"
+    },
+    {
+      "name": "login_freeze",
+      "value": "紧急冻结"
+    },
+    {
+      "name": "login_security",
+      "value": "安全中心"
+    },
+    {
+      "name": "login_country_tips",
+      "value": "中国大陆（+86）"
+    },
+    {
+      "name": "register_title",
+      "value": "手机号注册"
+    },
+    {
+      "name": "register_nickname",
+      "value": "昵称"
+    },
+    {
+      "name": "register_nickname_tips",
+      "value": "例如：陈晨"
+    },
+    {
+      "name": "register_password",
+      "value": "密码"
+    },
+    {
+      "name": "register_password_tips",
+      "value": "请填写密码"
+    },
+    {
+      "name": "register_privacy1",
+      "value": "我已阅读并同意"
+    },
+    {
+      "name": "register_privacy2",
+      "value": "《软件许可及服务协议》"
+    },
+    {
+      "name": "register_button_tips",
+      "value": "页面搜集的信息仅用于注册账号"
+    },
+    {
+      "name": "bottom_tab_wechat",
+      "value": "微信"
+    },
+    {
+      "name": "bottom_tab_contact",
+      "value": "通讯录"
+    },
+    {
+      "name": "bottom_tab_discovery",
+      "value": "发现"
+    },
+    {
+      "name":"bottom_tab_me",
+      "value": "我"
+    },
+    {
+      "name": "emoji_search",
+      "value": "搜索"
+    },
+    {
+      "name": "emoji_search_more",
+      "value": "更多表情"
+    },
+    {
+      "name": "title_wechat",
+      "value": "微信"
+    },
+    {
+      "name": "title_contact",
+      "value": "通讯录"
+    },
+    {
+      "name": "title_discovery",
+      "value": "发现"
+    },
+    {
+      "name": "me_id",
+      "value": "微信号:"
+    },
+    {
+      "name": "me_friend",
+      "value": "朋友圈"
+    },
+    {
+      "name": "me_service",
+      "value": "服务"
+    },
+    {
+      "name": "me_collection",
+      "value": "收藏"
+    },
+    {
+      "name": "me_card",
+      "value": "卡包"
+    },
+    {
+      "name": "me_emoji",
+      "value": "表情"
+    },
+    {
+      "name": "me_setting",
+      "value": "设置"
+    },
+    {
+      "name": "discovery_moments",
+      "value": "朋友圈"
+    },
+    {
+      "name": "discovery_video",
+      "value": "视频号"
+    },
+    {
+      "name": "discovery_scan",
+      "value": "扫一扫"
+    },
+    {
+      "name": "discovery_nearby",
+      "value": "附近"
+    },
+    {
+      "name": "discovery_program",
+      "value": "小程序"
+    },
+    {
+      "name": "set_security",
+      "value": "账号与安全"
+    },
+    {
+      "name": "set_young",
+      "value": "青少年模式"
+    },
+    {
+      "name": "set_care",
+      "value": "关怀模式"
+    },
+    {
+      "name": "set_msgnotify",
+      "value": "新消息通知"
+    },
+    {
+      "name": "set_chat",
+      "value": "聊天"
+    },
+    {
+      "name": "set_general",
+      "value": "通用"
+    },
+    {
+      "name": "set_friendpermission",
+      "value": "朋友权限"
+    },
+    {
+      "name": "set_privacy",
+      "value": "个人隐私政策"
+    },
+    {
+      "name": "set_about",
+      "value": "关于微信"
+    },
+    {
+      "name": "set_help",
+      "value": "帮助与反馈"
+    },
+    {
+      "name": "set_logout",
+      "value": "切换账号"
+    },
+    {
+      "name": "set_exit",
+      "value": "退出"
+    },
+    {
+      "name": "set_privacy_title",
+      "value": "隐私"
+    },
+    {
+      "name": "info_wid",
+      "value": "微信号："
+    },
+    {
+      "name": "info_area",
+      "value": "地区："
+    },
+    {
+      "name": "info_setmark",
+      "value": "设置备注和标签"
+    },
+    {
+      "name": "info_permission",
+      "value": "朋友权限"
+    },
+    {
+      "name": "info_moments",
+      "value": "朋友圈"
+    },
+    {
+      "name": "info_more",
+      "value": "更多信息"
+    },
+    {
+      "name": "info_btn_message",
+      "value": "发消息"
+    },
+    {
+      "name": "info_btn_video",
+      "value": "视频通话"
     }
   ]
 }
