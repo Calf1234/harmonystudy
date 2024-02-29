@@ -48,6 +48,18 @@
           ]
         }
       ]
+    },
+    {
+      "name": "wechat",
+      "srcPath": "./wechat",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
     }
   ]
 }

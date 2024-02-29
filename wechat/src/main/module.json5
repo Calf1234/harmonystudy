@@ -1,0 +1,27 @@
+{
+  "module": {
+    "name": "wechat",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "WechatAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "WechatAbility",
+        "srcEntry": "./ets/wechatability/WechatAbility.ts",
+        "description": "$string:WechatAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:WechatAbility_label",
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}
